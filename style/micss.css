@@ -1,0 +1,77 @@
+/* div p {
+    color: chartreuse;
+}
+.parrafo-Dos{
+    color: darkkhaki;
+}
+ 
+p + h1{
+    color: pink;
+}
+.mi-parrafo{
+    color: red
+}
+
+p{
+    color: #121568;
+} 
+
+p{
+    color: rebeccapurple;
+}
+
+div , p {
+    color: red;
+    background-color: blueviolet;
+    height: 100px;
+    width: 100px;
+}
+div{
+    background-color: cornflowerblue;
+    height: 200px;
+    width: 200px;
+}
+
+  a:link {
+    color: #FF0000;
+  }
+  
+
+  a:visited {
+    color: #00FF00;
+  }
+  
+
+  a:hover {
+    color: #FF00FF;
+  }
+  
+
+  a:active {
+    color: #0000FF;
+  }
+  */
+
+  div {
+      height: 100px;
+      width: 100px;
+      background-color: aqua;
+  }
+
+  #miDiv{
+      height: 100rem;
+      width: 100rem;
+      background-color: blueviolet;
+  }
+
+  .miDivv{
+    height: 100vh;
+    width: 100vw;
+    background-color: brown;
+  }
+
+  .miDivPorcentaje{
+    height: 100%;
+    width: 100%;
+    background-color: blue;
+  }
